@@ -51,7 +51,7 @@ Use:
 | File | Description | Download |
 |------|--------------|-----------|
 | `dg_test_data_1.csv` | Historical PQL dataset (9 ,770 rows). Includes `customer_id`, `ws_created_at`, `pql_created_at`, `company_segment`, `company_sales_region`, `company_employees`. | [📥 Download](https://github.com/anaskar/ai-gtm-evals/blob/a98d677faddb06d228bb41af4f73e7c33120db55/campaign_analysis/data/dg_test_data_1.csv) |
-| `weekly_ws_created_cohorts_nonlinear.csv` | Weekly workspace-creation cohorts with improving free → PQL conversion (≈ 4.7 → 6.4 %). Columns: `week_created`, `workspaces_created_that_week`, `applied_conversion_rate`. | [📥 Download](sandbox:/mnt/data/weekly_ws_created_cohorts_nonlinear.csv) |
+| `weekly_ws_created_cohorts.csv` | Weekly workspace-creation cohorts with improving free → PQL conversion (≈ 4.7 → 6.4 %). Columns: `week_created`, `workspaces_created_that_week`, `applied_conversion_rate`. | [📥 Download](https://github.com/anaskar/ai-gtm-evals/blob/02d55769f978bf427ca5942fa569378f7c56ac1a/campaign_analysis/data/weekly_ws_created_cohorts.csv) |
 
 ---
 
