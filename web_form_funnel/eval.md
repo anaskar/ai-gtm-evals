@@ -31,5 +31,5 @@
 - **Model:**  
 - **Interface:** Chat interface via Baseten
 - **Evaluator:** @anaskar
-- **Date:** 2025-11-11
+- **Date:** 2025-11-21
 - **Category:** KPI Diagnostics  
