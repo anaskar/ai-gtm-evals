@@ -90,7 +90,7 @@ Your goal is to think like a pragmatic operator and diagnose what’s going on.
 
 # 4️⃣ Stream using .create(..., stream=True) so chunks have `.choices`
 response = client.chat.completions.create(
-    model="moonshotai/Kimi-K2-Thinking",
+    model="openai/gpt-oss-120b",
     messages=[{"role": "user", "content": prompt}],
     temperature=0.8,
     max_tokens=7500,
@@ -106,7 +106,7 @@ for chunk in response:
         full_text += content
 
 # 5️⃣ Save to a markdown file for your repo
-filename = "kpi_diagnostics_kimi-k2-thinking_output.md"
+filename = "kpi_diagnostics_gpt-oss-120b_output.md"
 with open(filename, "w") as f:
     f.write(full_text)
 
