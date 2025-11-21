@@ -93,7 +93,7 @@ response = client.chat.completions.create(
     model="moonshotai/Kimi-K2-Thinking",
     messages=[{"role": "user", "content": prompt}],
     temperature=0.8,
-    max_tokens=5000,
+    max_tokens=7500,
     stream=True,
 )
 
