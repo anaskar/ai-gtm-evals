@@ -93,7 +93,7 @@ response = client.chat.completions.create(
     model="moonshotai/Kimi-K2-Thinking",
     messages=[{"role": "user", "content": prompt}],
     temperature=0.8,
-    max_tokens=2500,
+    max_tokens=5000,
     stream=True,
 )
 
@@ -106,7 +106,7 @@ for chunk in response:
         full_text += content
 
 # 5️⃣ Save to a markdown file for your repo
-filename = "kpi_diagnostics_output.md"
+filename = "kpi_diagnostics_kimi-k2-thinking_output.md"
 with open(filename, "w") as f:
     f.write(full_text)
 
