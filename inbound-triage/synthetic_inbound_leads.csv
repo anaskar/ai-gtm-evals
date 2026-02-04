@@ -1,0 +1,26 @@
+company_name,company_size,domain,industry,job_title,seniority,inbound_message,source
+AtlasPay,120,https://atlaspay.com,Fintech,Head of Data,director,We’re rebuilding our data platform and evaluating vendors that can support model deployment and monitoring. Would love to see a demo and understand pricing.,blog
+SoloAI,1,https://gmail.com,Consulting,AI Consultant,founder,Just curious what you guys do and whether there’s a free tier I can test for client experiments.,unknown
+Northstar Logistics,480,https://northstarlogistics.io,Logistics,VP Engineering,vp,We run several ML systems in production and are looking for better infra and observability. Interested in talking to sales.,referral
+EduML Club,15,https://eduml.club,Education,Student Researcher,entry,I’m working on a class project and wanted to see if your platform could be used for coursework.,blog
+BrightHealth Systems,950,https://brighthealthsys.com,Healthcare,Director of ML Platform,director,We’re exploring options to standardize model deployment across teams. Can you share enterprise pricing and security docs?,paid_social
+Startup Stealth,8,https://stealthstartup.ai,AI Startup,Founder,founder,We’re early stage but plan to scale ML usage quickly. Looking for infra partners that won’t slow us down.,referral
+MarketingGenius,42,https://marketinggenius.co,Marketing,Marketing Manager,manager,I’m not super technical but we want to use AI more. Can someone explain if this is relevant for us?,email
+Acme Manufacturing,300,https://acmemfg.com,Manufacturing,IT Manager,manager,We’ve heard about MLOps platforms but aren’t sure if we need one yet. Open to learning more.,blog
+DataScale Inc,210,https://datascale.io,SaaS,Senior ML Engineer,senior,Currently running models on custom infra and hitting scaling limits. Looking for alternatives.,paid_social
+Indie Hacker,1,https://indiehackers.com,Software,Indie Developer,founder,Does this work for solo builders or is it more enterprise-focused?,blog
+FinTrust Bank,2200,https://fintrustbank.com,Banking,ML Platform Lead,director,We’re conducting a vendor evaluation for managed ML infrastructure. Please loop in sales.,referral
+RecruitBot,25,https://recruitbot.ai,HR Tech,Product Manager,manager,We have a small ML team and want to ship faster without owning infra. Curious about costs.,paid_social
+Personal Project,1,https://github.com,Personal,Student,entry,I’m learning MLOps and wanted to try your platform for fun.,unknown
+RetailCo,650,https://retailco.com,Retail,Director of Engineering,director,We support multiple ML workloads and need better reliability guarantees. Interested in a walkthrough.,email
+VisionWorks,90,https://visionworks.ai,Computer Vision,CTO,c-suite/founder,We deploy vision models to customers and infra is a bottleneck. Let’s talk.,referral
+Nonprofit AI Lab,30,https://nonprofitailab.org,Nonprofit,Research Lead,senior,We don’t have much budget but are exploring platforms for long-term use.,blog
+CloudOps Pro,180,https://cloudopspro.com,DevOps,Head of Platform,director,Our team manages ML infra internally but we’re evaluating buy vs build.,email
+CryptoBot DAO,12,https://cryptobotdao.xyz,Crypto,Community Lead,manager,Not sure if this applies to us but wanted more info.,paid_social
+MegaMedia Group,1200,https://megamedia.com,Media,VP Data Science,vp,We’re standardizing ML deployment across brands. Need enterprise-grade tooling.,referral
+Local Startup,5,https://localstartup.io,General,Founder,founder,How fast can we get something live and what’s the minimum cost?,blog
+AI Agency Plus,18,https://aiagencyplus.com,Agency,Founder,founder,We build solutions for clients and need reusable infra. Interested in partner pricing.,email
+University Lab,40,https://universitylab.edu,Research,Postdoc Researcher,senior,Evaluating tools for research workloads. Not sure about commercial use yet.,blog
+FleetAI,260,https://fleetai.com,Transportation,ML Engineering Manager,manager,We’re scaling production models and want less operational overhead.,paid_social
+Hobby Project,1,https://notion.so,Personal,Developer,entry,Saw this on Twitter and thought it looked cool.,unknown
+EnterpriseSoft,800,https://enterprisesoft.com,Enterprise SaaS,Director of Infrastructure,director,We’re actively budgeting for next quarter and evaluating vendors now.,referral
